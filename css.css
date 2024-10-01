@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+.menu {
+  align-items: center;
+  justify-content: center;
+}
+
+.zona {
+  justify-content: center;
+  background-color: gray;
+}
+
+table{
+  border: .8px solid black;
+  justify-content: center;
+  align-items: center;
+}
+
+th{
+  margin: 10px;
+  padding: 5px;
+  border: .5px solid black;
+}
